@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Kevin Salazar!
 
-:computer: I'm FrontEnd!
+:computer: I'm FrontEnd Developer!
 
 :books: I am currently improving my skills.
 
